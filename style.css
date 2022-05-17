@@ -1,0 +1,18 @@
+.card{
+  height: 20vh;
+  padding: 4rem;
+  justify-content: space-around;
+  background-color: rgb(115, 9, 115);
+  opacity: 25%;
+}
+.reset{
+  background-color: red;
+}
+
+.add{
+  background-color: green;
+}
+
+.subtract{
+  background-color: crimson;
+}
