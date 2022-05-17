@@ -53,8 +53,8 @@ function draw(){
 }
 function resetScore(){
   
- let homeScore = 0
- let awayScore = 0
+  homeScore = 0
+  awayScore = 0
  console.log(homeScore)
  console.log(awayScore)
  ascore.innerText = awayScore
